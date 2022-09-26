@@ -28,7 +28,7 @@ function multiply(a, b){
   return a * b
 }
 ```
-___
+---
 #### Language:
 English level A1 (A2 in process)
 
