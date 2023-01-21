@@ -17,7 +17,7 @@ ___
 + [JS](https://ru.code-basics.com/languages/javascript)
 
 **Education:**
-I am a second year student of the College of Economics, Management and Law
+I am a third year student of the College of Economics, Management and Law
 ___
 #### Work experience:
 Nothing yet
