@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background-color: #5fb9cf;
+    background-color: #dbbdfb;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h1 {
 }
 
 h2 {
-    color: #5fb9cf;
+    color: #dbbdfb;
 }
 
 .pre {
@@ -115,29 +115,29 @@ code {
   }
   
 .nav-link:hover {
-    color: #d3c546;
+    color: #FFFABB;
 }
 
 .courses-link {
     transition: .3s;
     text-decoration: none;
-    color: #d3c546;
+    color: #d3ca51;
     transition: color 0.5s;
 }
 
 .courses-link:hover {
-    color: #5fb9cf;
+    color: #dbbdfb;
 }
 
 .contacts-link {
     transition: .3s;
     text-decoration: none;
-    color: #d3c546;
+    color: #d3ca51;
     transition: color 0.5s;
 }
 
 .contacts-link:hover {
-    color: #5fb9cf;
+    color: #dbbdfb;
 }
 
 .profile-logo {
@@ -164,7 +164,7 @@ code {
 }
 
 .container-footer {
-    background-color: #5fb9cf;
+    background-color: #dbbdfb; /*#5fb9cf*/
     padding: 20px 0px;
     color: #f8f2f2f6;
     justify-content: space-around;
@@ -187,7 +187,7 @@ code {
 }
 
 .footer-link-git:hover {
-    color: #d3c546;
+    color: #FFFABB;
 }
 
 @media (max-width: 768px) {
